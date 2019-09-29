@@ -1,0 +1,1 @@
+export { default as loadGames } from './home/loadGames';
